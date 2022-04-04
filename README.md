@@ -1,8 +1,24 @@
-# Getting Started with Create React App
+# Headset Anylisis React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Live Site Link  [Headset Anylisis](https://headset-analisis.netlify.app/).
 
 ## Available Scripts
+
+### Rechart 
+
+Yarn add recharts
+
+
+### React BootStrap
+
+npm install react-bootstrap bootstrap@5.1.3
+
+### Reating Star 
+// with npm
+npm install @mui/material @emotion/react @emotion/styled
+
+// with yarn
+yarn add @mui/material @emotion/react @emotion/styled
 
 In the project directory, you can run:
 
