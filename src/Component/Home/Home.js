@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import useReview from '../../Hook/useReview'
 import Card from '../Review/Card/Card'
 import './Home.css'
@@ -37,6 +38,7 @@ function Home() {
 
                 
             </div>
+            <Link className='btn btn-primary  mt-5' to="/review">See All Reviews</Link>
         </div>
         </section>
     )

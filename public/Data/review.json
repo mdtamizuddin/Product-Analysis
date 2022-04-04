@@ -40,5 +40,13 @@
         "logo":"Q",
         "star":2,
         "description":"Sound quality was horrible and I had to crank the volume max and it was still pretty quiet ."
+    },
+    {
+        "id":7,
+        "name":"Riz",
+        "logo":"R",
+        "star":5,
+        "description":"First of all, the customer support is AWESOME! - I got my headset a few days after I ordered it and it turned out that one side is not working so I notified them and right then and there they replaced it with a Red one(as I requested because it just goes along with my computer so good , lol), no questions asked. The first one was Blue and they both look AWESOME! I love the lights."
     }
+    
 ]

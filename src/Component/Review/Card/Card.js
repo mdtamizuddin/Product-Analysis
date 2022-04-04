@@ -25,7 +25,7 @@ function Card(props) {
             }}
         />
 
-    <p className="description">{description.slice(0 , 270)}</p>
+    <p className="description">"{description.slice(0 , 270)}"</p>
 </div>
   )
 }
