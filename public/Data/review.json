@@ -1,0 +1,44 @@
+[
+    {   
+        "id":1,
+        "name": "Joshua",
+        "logo": "J",
+        "star": 5,
+        "description": "I got this in a rush when I needed a new headset. In hindsight a bit more research would have had me getting something else. As a precursor to the review I feel that it is worth noting that I am very rough on audio peripherals. I don't know why, but they usually last me about 6 months regardless of the quality and price. "
+    },
+    {   
+        "id":2,
+        "name": "Joann Miele",
+        "logo": "J",
+        "star": 5,
+        "description": "Great quality headset and sound. Lights are not too bright whatsoever."
+    },
+    {
+        "id":3,
+        "name": "Mike Bowman",
+        "logo": "M",
+        "star": 5,
+        "description": "I liked a lot of the aspects of this product, however it's hard to give anything but a one star review to a product that doesn't work. Within a month of buying this, the end started shorting out. Now it only works if you twist the end and hold it there. This is the same for several different devices. Of course my son told me about it today, a day after the return window closed."
+    },
+    {
+        "id":4,
+        "name": "Lyuben",
+        "logo": "L",
+        "star": 4,
+        "description":"If you are looking for a gaming headset with a bit of everything.- The light frame(cushion on top) without access to clamping force. - Comfortable ear cushions with proper internal padding and am really happy with that because I don’t like when my ears are smashed."
+    },
+    {   
+        "id":5,
+        "name":"Christopher Gillott",
+        "logo":"C",
+        "star":5,
+        "description":"My 12 year old daughter’s review: I really love this headset! This is probably the best headset I've had so far because every single feature on it is great! The audio is impeccable, the sound stays within the headset and not all over the place (which usually happens in most headphones)."
+    },
+    {
+        "id":6,
+        "name":"Quadbob101",
+        "logo":"Q",
+        "star":2,
+        "description":"Sound quality was horrible and I had to crank the volume max and it was still pretty quiet ."
+    }
+]

@@ -14,7 +14,7 @@ const Navbar= () => {
     <nav>
        <div className='nav-content'>
        <div className='logo'>
-            <Link to='/'> <h1>MD TOMIZ</h1></Link>
+            <Link to='/'> <h1>Product Review</h1></Link>
             <i onClick={navControlar} className="fa-solid fa-bars"></i>
         </div>
         <ul className={resNav} id='nav-manu'>
