@@ -14,7 +14,7 @@ const Navbar= () => {
     <nav>
        <div className='nav-content'>
        <div className='logo'>
-            <Link to='/'> <h1>Product Review</h1></Link>
+            <Link to='/'> <h1>Headset Review</h1></Link>
             <i onClick={navControlar} className="fa-solid fa-bars"></i>
         </div>
         <ul className={resNav} id='nav-manu'>
@@ -22,8 +22,8 @@ const Navbar= () => {
                 <li><NavLink to='/review'>Review</NavLink></li>
                 <li><NavLink to='/dashboard'>Dashboard</NavLink></li>
                 <li><NavLink to='/blogs'>Blogs</NavLink></li>
-                <li><NavLink to='/about'>About</NavLink></li>
-                <li><NavLink to='/contact'>Contact</NavLink></li>
+               
+              
         </ul>
        </div>
     </nav>

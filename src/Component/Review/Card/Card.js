@@ -7,7 +7,7 @@ function Card(props) {
     const setValue =()=>{
     }
    
-   const {name , logo,star,description}  = props.review
+   const {name , logo,star,description}  = props.review ;
   return (
     <div className="review-card">
     <div className="header-card">
