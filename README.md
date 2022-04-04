@@ -2,23 +2,37 @@
 
 Project Live Site Link  [Headset Anylisis](https://headset-analisis.netlify.app/).
 
-## Available Scripts
+- ### https://headset-analisis.netlify.app/
 
-### Rechart 
+# Pages 
 
-Yarn add recharts
+- ## Home Page 
+    
+- ## Reviews Page
+- ## Dashboard Page
+- ## Blogs page
+## Used External Utilitis
+
+- ## Rechart 
+    #### install
+        Yarn add recharts
 
 
-### React BootStrap
+- ### React BootStrap
 
-npm install react-bootstrap bootstrap@5.1.3
+    ### install
+        npm install react-bootstrap bootstrap@5.1.3
 
-### Reating Stars 
+ - ### Reating Stars 
+    ### Install
 
-yarn add @mui/material @emotion/react @emotion/styled
+        yarn add @mui/material @emotion/react @emotion/styled
 
-
+- ### react-router-dom
+    ### install 
+    #### yarn add react-router-dom
 In the project directory, you can run:
+
 
 ### `yarn start`
 
