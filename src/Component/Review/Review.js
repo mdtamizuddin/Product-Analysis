@@ -6,7 +6,6 @@ import Card from './Card/Card'
 import './Review.css'
 function Review() {
     const [reviews , setReview]  = useReview()
-  
     return (
         <div className="reviews container">
             <h1 className='review-heading'>Customer Reviews</h1>
@@ -15,7 +14,7 @@ function Review() {
                {
                    reviews.map(review => {
                       return(
-                          <Card key={review} review={review}/>
+                          <Card key={review.id} review={review}/>
                       )
                    })
                }

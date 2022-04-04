@@ -8,7 +8,7 @@ import Review from './Component/Review/Review';
 
 function App() {
   return (
-    <div className="App">
+    <div className="mb-5">
       <Navbar />
      <Routes>
        <Route  path='*' element={'not Found'}/>

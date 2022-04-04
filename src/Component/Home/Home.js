@@ -1,7 +1,10 @@
 import React from 'react'
+import useReview from '../../Hook/useReview'
+import Card from '../Review/Card/Card'
 import './Home.css'
 import product from './images/headset.jpg'
 function Home() {
+    const [reviews , setReview]  = useReview()
     return (
         <section className='container'>
            <div className="header">
@@ -18,8 +21,23 @@ function Home() {
                 <img src={product} alt="" />
             </div>
            </div>
+            {/* Review Section Start  */}
 
-            
+            <div className="reviews container">
+            <h1 className='review-heading'>Customer Reviews</h1>
+            <div className="review">
+
+               {
+                   reviews.slice(0,3).map(review => {
+                      return(
+                          <Card key={review.id} review={review}/>
+                      )
+                   })
+               }
+
+                
+            </div>
+        </div>
         </section>
     )
 }
